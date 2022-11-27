@@ -1,2 +1,2 @@
 # Translator_from_to_AR_EN_word_by_word
-this translator word word by word
+this translator word by word
